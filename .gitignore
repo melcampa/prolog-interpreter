@@ -1,0 +1,14 @@
+﻿# Racket compiled bytecode and build artifacts
+compiled/
+*.zo
+*.dep
+*.bak
+*~
+
+# DrRacket temporary and backup files
+.#*
+#*#
+
+# OS-generated files
+.DS_Store
+Thumbs.db
